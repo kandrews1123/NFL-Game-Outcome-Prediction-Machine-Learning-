@@ -103,6 +103,16 @@ This framework can be extended to:
 
 ---
 
+Installing
+You can download my program through the "cse482Step3.ipynb" file attached to the repository.
+
+Authors
+Contributors names and contact info
+
+Kendall Andrews - Author
+Data: NFL Python Package - Pypi - nfl-data-py
+
+
 ## 📌 Conclusion
 
 The results demonstrate that **nonlinear machine learning models (XGBoost) outperform traditional linear methods** for NFL outcome prediction.
